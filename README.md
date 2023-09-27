@@ -1,8 +1,3 @@
-<p float="left">
- <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/DS%20Logo.png" width = "500"/>
- <img src="https://github.com/LorenzoPastore/University-Works/blob/master/Advanced%20Machine%20Learning/images/Bicocca%20Logo.png" width = "100" align="right"/>
-</p>
-
 # Digital-Marketing-Analysis
 This Project has been developed by me and [Raffaele Anselmo](https://github.com/RaffaeleAns).
 We propose a data-driven communication strategy developing:
